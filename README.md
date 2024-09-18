@@ -4,5 +4,7 @@
 
 
 Ссылка на макет: https://www.figma.com/design/TqpJRVn2Ctm2wXth8tqoxx/Untitled?node-id=1-36&t=ldlV16phyic4IJlV-1
+
 Ссылка на сайт: https://estepa08.github.io/Cake.io/
+
 Ссылка на резюме: https://hh.ru/resume/92d346b6ff0d7f0fcd0039ed1f4874454d5064
